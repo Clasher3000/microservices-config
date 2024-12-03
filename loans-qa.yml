@@ -1,0 +1,11 @@
+
+build:
+  version: "2.0"
+loans:
+  message: "Welcome to Bank QA "
+  contactDetails:
+    name: "Fitzgerald Lonelo - QA Lead"
+    email: "fidqq@bank.com"
+  onCallSupport:
+    - (314) 941-4124
+    - (546) 817-4124

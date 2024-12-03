@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Bank related prod APIs"
+  contactDetails:
+    name: "Reine Ray - Product Owner"
+    email: "rein241@example.com"
+  onCallSupport:
+    - (777) 241-8913
+    - (777) 523-5876

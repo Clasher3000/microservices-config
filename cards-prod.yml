@@ -1,0 +1,11 @@
+
+build:
+  version: "3.0"
+cards:
+  message: "Welcome to Bank cards PROD "
+  contactDetails:
+    name: "Benjamin Oliver - PROD Lead"
+    email: "ben.oliver@bank.com"
+  onCallSupport:
+    - (412) 119-3214
+    - (915) 324-1245

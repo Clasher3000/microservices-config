@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank related QA APIs"
+  contactDetails:
+    name: "Smith Ray - QA Lead"
+    email: "smitha@example.com"
+  onCallSupport:
+    - (666) 241-8913
+    - (666) 523-5876

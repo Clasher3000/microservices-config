@@ -1,0 +1,14 @@
+
+build:
+    version: "1.0"
+
+accounts:
+  message: "Welcome to Bank related local APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "example@example.com"
+  onCallSupport:
+    - (555) 555-5555
+    - (555) 523-5876
+
+

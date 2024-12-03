@@ -1,0 +1,11 @@
+
+build:
+  version: "3.0"
+loans:
+  message: "Welcome to Bank Prod "
+  contactDetails:
+    name: "Muhamed Ray - CTO"
+    email: "mur142@bank.com"
+  onCallSupport:
+    - (894) 893-1463
+    - (546) 132-4141

@@ -1,0 +1,11 @@
+
+build:
+  version: "2.0"
+cards:
+  message: "Welcome to Bank cards QA "
+  contactDetails:
+    name: "Dmytro Melnyk - QA Lead"
+    email: "mel.dm@bank.com"
+  onCallSupport:
+    - (412) 841-1133
+    - (915) 730-3259
