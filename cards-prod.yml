@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to Bank cards webhook API"
   contactDetails:
-    name: "Benjamin Oliver - PROD Lead"
+    name: "Benjamin Oliver - CTO"
     email: "ben.oliver@bank.com"
   onCallSupport:
     - (412) 119-3214
