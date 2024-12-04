@@ -1,6 +1,6 @@
 
 build:
-  version: "3.0C"
+  version: "3.0"
 cards:
   message: "Welcome to Bank cards WEBHOOK API"
   contactDetails:
